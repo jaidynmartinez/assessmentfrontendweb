@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(255, 222, 228);
+}
+
+h1 {
+    color: rgb(161, 19, 97);
+    font-family: papyrus;
+    font-weight: bold
+}
+
+h3 {
+    color: rgb(199, 69, 108);
+    font-family: papyrus
+}
+
+h2{
+    color: rgb(174, 65, 83);
+    font-family: papyrus
+}
+
+#start {
+    font-family: papyrus
+}
+.her-stuff {
+    color: rgb(153, 71, 85);
+    font-family: papyrus
+}
+
+#skills {
+    color: rgb(131, 63, 176)
+}
+
+#interests {
+    color: rgb(174, 65, 83)
+}
+
+#career {
+    color: rgb(163, 43, 139)
+}
+
+.images {
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+#click {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: rgb(125, 28, 109)
+}
+.buttons {
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.form {
+    padding: 30px
+}
+
+#color {background-color: yellow; height: 50px}#place {background-color: yellow; height: 50px}#ritual {background-color: yellow; height: 50px}#show {background-color: yellow; height: 50px}#collection {background-color: yellow; height: 50px}
