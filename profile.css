@@ -53,13 +53,14 @@ h2{
 }
 .buttons {
     padding: 10px;
-    display: flex;
-    justify-content: space-evenly;
+    background-color: rgb(255, 255, 162);
+}
 
+.button {
+    display: flex;
+    justify-content: space-evenly
 }
 
 .form {
     padding: 30px
 }
-
-#color {background-color: yellow; height: 50px}#place {background-color: yellow; height: 50px}#ritual {background-color: yellow; height: 50px}#show {background-color: yellow; height: 50px}#collection {background-color: yellow; height: 50px}
